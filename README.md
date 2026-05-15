@@ -15,7 +15,7 @@ npm start
 
 ## AWS Lambda screenshot
 
-![AWS Lambda configuration](./aws-lambda-screenshot.png)
+![AWS Lambda configuration screenshot](./lambda_screen.png)
 
 ## Main files
 
