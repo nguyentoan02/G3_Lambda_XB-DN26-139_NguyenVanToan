@@ -13,6 +13,10 @@ npm start
 
 `https://bkors24ac1.execute-api.us-east-1.amazonaws.com`
 
+## AWS Lambda screenshot
+
+![AWS Lambda configuration](./aws-lambda-screenshot.png)
+
 ## Main files
 
 - `app.js`: existing Express app
