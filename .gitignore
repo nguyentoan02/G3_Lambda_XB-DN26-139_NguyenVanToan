@@ -1,0 +1,6 @@
+node_modules/
+.aws-sam/
+.env
+*.log
+.DS_Store
+deploy-package.zip
